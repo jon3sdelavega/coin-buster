@@ -16,3 +16,6 @@ Aplicación web derivada de "Pulso Abierto" para Teclab, como Actividad Práctic
 1. **Instalar dependencias:**
    ```bash
    npm install
+
+## Aplicación publicada
+URL en Vercel: https://coin-buster.vercel.app
