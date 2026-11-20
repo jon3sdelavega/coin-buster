@@ -19,3 +19,20 @@ Aplicación web derivada de "Pulso Abierto" para Teclab, como Actividad Práctic
 
 ## Aplicación publicada
 URL en Vercel: https://coin-buster.vercel.app
+
+## Verificación Final
+
+**Pruebas ejecutadas**
+npm test (4/4 pruebas aprobadas en cryptoService.test.ts y App.test.tsx).
+
+**Build generado correctamente**
+npm run build ejecutado sin errores de compilación ni de tipos.
+
+**Preview comprobado**
+Verificado mediante npm run preview (consulta a API, navegación, validación de formulario y persistencia de favoritos tras recarga).
+
+**Despliegue realizado**
+Publicado en Vercel y validado en navegación directa y recarga sobre rutas dinámicas (/criptomonedas/bitcoin).
+
+**Fecha de verificación** 
+20/11/2026
